@@ -1,0 +1,180 @@
+.center
+{
+    text-align: center;
+    color: ;
+    width: 60%;
+    margin-top: 0px;
+    margin-left: 20%;
+    
+}
+
+h1
+{
+    color: white;
+    background-color: #66bbc2;
+    padding: 5px 5px;
+    border-radius: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 2.2em;
+}
+.tb
+{
+    font-size: 0.8em;
+    text-align: center;
+    width: 80%;
+    margin-left:10%;
+    
+    margin-top:65px;
+    color: white;
+    
+     background-color: #66bbc2;
+    border-radius: 20px;
+    padding: 36px 20px;
+    border: 2px white;
+}
+
+
+
+
+.vid
+{
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    
+    margin-left: 32%;
+}
+body
+{
+    background-color: #80c2ce;
+    
+}
+
+.parallex
+{
+    height: 500px;
+    margin: 20px 20px;
+    opacity: 0.1;
+    
+}
+
+button
+{
+    
+   
+    margin-left: 44%;
+    margin-top: 20px;
+    width: 12%;
+    color: white;
+    font-size: 1em;
+    background-color: #005e82;
+    padding: 10px 15px;
+    border-radius: 20px;
+    
+        
+
+        
+}
+
+a
+{
+    text-decoration: none;  
+    color: white;
+    display: block;
+    border-radius: 20px;
+    padding: 15px 10px;
+    
+}
+
+a:hover
+{
+    background-color:#7fa995 ;
+    
+}
+
+input
+{
+    width: 200px;
+}
+
+h3
+{
+    
+    color:white;
+    font-size: 1.5em;
+    background-color:#66bbc2;
+    width: 60%;
+    margin-left: 20%;
+   padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    text-align: center;
+}
+.ip
+{
+    width: 60%;
+    height: 500px;
+    font-size: 1em;
+    margin-left: 20%;
+    border-radius: 20px;
+}
+p
+{
+    color: white;
+    width: 800px
+    margin-left: 20%;
+    text-align: right;
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+body
+{
+    background-color: #a9cf82;
+}
+
+.img1
+{
+    width: 50%;
+    margin-left: 6%;
+    margin-top: 50px;
+    
+}
+
+
+.navi
+{
+    background-color:#66bbc2;
+    color: white;
+    margin-top: 0px; 
+    margin-left: 6% ;
+    margin-right: 6%;
+    margin-bottom: 10px;
+ border-radius: 20px;
+    
+}
+
+ul 
+{
+    list-style-type: none;
+    padding: 10px 10px;
+   
+}
+
+ li a
+{
+  
+    padding: 10px 10px;
+    background-color: #66bbc2;
+    float: center; 
+    border-radius: 090px;
+    
+}
+
+
+li a:hover
+{
+    background-color: #005e82;    
+}

@@ -1,0 +1,99 @@
+div
+{
+    margin: 0 0;
+    text-align: center;
+    height: 700px;
+    
+}
+
+
+
+.blue
+{
+    /*background-color: #1da1f2;*/
+    opacity: 0.7;
+    
+}
+
+
+.grey
+{
+    /*background-color: beige;*/
+    opacity: 0.7;
+}
+
+
+h1
+{
+    font-family: 'Titillium Web', sans-serif;
+       margin: 0;
+     
+    font-size: 2.5em;
+    color: darkgoldenrod;
+    width: 60%;
+    margin-left: 20%;
+    
+    
+}
+
+ul
+{
+    list-style-type: none;
+    margin-top: 0px;
+    font-size: 1.8em;
+    width: 100%;
+   
+     opacity: 0.7;
+    
+  overflow: hidden;   
+    
+}
+
+li
+{
+    padding-left: 15px;
+    padding-right: 15px;
+   
+   float:left; 
+    align-content: center;
+    
+   
+}
+
+li a
+{
+    background-color: black;
+   
+    color: chartreuse;
+    display: block;
+    text-decoration: none;
+    padding: 20px 20px;
+    
+   
+}
+
+a:hover
+{
+    background-color: brown;
+    color: white;
+   
+    
+    
+    
+}
+
+.righty
+{
+    float: right;
+}
+
+p
+{
+    margin-top: 150px;
+    background-color: beige;
+    color: darkgoldenrod;
+    font-size: 1.8em;
+    width: 60%;
+    padding: 30px;
+    margin-left:20% ;
+}

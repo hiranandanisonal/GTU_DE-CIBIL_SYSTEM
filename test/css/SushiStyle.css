@@ -1,0 +1,76 @@
+body
+{
+    height: 100%;
+}
+
+video
+{
+    position: fixed;
+   margin: 20px 25%;
+
+    
+    z-index: 0;
+    border-radius: 20px;
+    opacity:0.5;
+    
+   top:50%;
+    left: 50%;
+    margin-top: -50%;
+    margin-left: -50%;
+    
+    
+    
+}
+
+h1
+{
+   font-family: 'Indie Flower', cursive,bold;
+    color: crimson;
+    font-size: 3em;
+}
+
+
+
+div
+{
+    position: fixed;
+    text-align: center;
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 30%;
+    z-index: 1;
+    color: white;
+    font-size: 1.8em;
+    background-color: beige;
+    opacity: 0.7;
+    padding:30px;
+    padding-top: 10px;
+    
+}
+
+p
+{
+    color: brown;
+}
+a
+{
+    border:3px;
+    border-color:white;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.5em;
+    background-color: darkseagreen;
+    opacity: 0.9;
+    
+    
+    
+    
+}
+
+a:hover
+{
+    background-color: burlywood;
+}

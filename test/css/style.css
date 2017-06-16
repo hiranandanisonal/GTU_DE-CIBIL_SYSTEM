@@ -1,0 +1,66 @@
+body
+{
+    background:url(/test/images/jpg.jpg)
+    
+        no-repeat center center fixed ;
+    
+    background-size: cover;
+    
+    
+    
+}
+
+div
+{
+    text-align: center;
+     width: 700px;
+    background-color:#20c4cb;
+    font-size: 1.8em;
+    border-radius: 20px;
+    padding: 5px;
+
+  margin:80px auto;
+    
+    text-align: center;
+    color: white;
+   
+    font-family:  'Source Sans Pro', sans-serif;
+    opacity: 0.8;
+    
+    
+}
+
+
+button{
+    width:500px;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 24px;
+margin-top: 20px;
+    margin-left: 550px;
+     
+    
+    color: darkgoldenrod;
+    background-color: black;
+}
+
+h2{
+    
+    font-size: 2em;
+      margin: 20px auto;
+    padding: 5px;
+    color: crimson;
+    
+    text-align: center;
+    font-family: 'Indie Flower', cursive,bold;
+}
+
+button:hover{
+    background-color: dimgrey;
+
+    
+}
+
+
+
+

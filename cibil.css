@@ -1,0 +1,150 @@
+.center
+{
+    text-align: center;
+    color: ;
+    width: 60%;
+    margin-top: 0px;
+    margin-left: 20%;
+    
+}
+
+h1
+{
+    color: white;
+    background-color: #66bbc2;
+    padding: 5px 5px;
+    border-radius: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 2.2em;
+}
+.tb
+{
+    font-size: 1.8em;
+    text-align: center;
+    width: 30%;
+    margin-left: 5%;
+    position: absolute;
+    margin-top:50px;
+    color: white;
+    display: inline-block;
+        background-color: #66bbc2;
+    border-radius: 20px;
+    padding: 36px 20px;
+}
+
+
+
+
+.vid
+{
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    
+    margin-left: 32%;
+}
+body
+{
+    background-color: #80c2ce;
+    
+}
+
+.parallex
+{
+    height: 500px;
+    margin: 20px 20px;
+    opacity: 0.1;
+    
+}
+
+button
+{
+    color: white;
+    font-size: 0.8em;
+    background-color: #005e82;
+    padding: 10px 15px;
+    border-radius: 20px;
+    width: 200px
+        
+}
+
+a
+{
+    text-decoration: none;  
+    color: white;
+    display: block;
+    border-radius: 20px;
+    padding: 15px 10px;
+    
+}
+
+a:hover
+{
+    background-color:#7fa995 ;
+    
+}
+
+input
+{
+    width: 200px;
+}
+p
+{
+    color: white;
+    width: 60%;
+    margin-left: 20%;
+    text-align: right;
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+body
+{
+    background-color: #a9cf82;
+}
+
+.img1
+{
+    width: 50%;
+    margin-left: 6%;
+    margin-top: 50px;
+    
+}
+
+
+.navi
+{
+    background-color:#66bbc2;
+    color: white;
+    margin-top: 0px; 
+    margin-left: 6% ;
+    margin-right: 6%;
+    margin-bottom: 10px;
+ border-radius: 20px;
+    
+}
+
+ul 
+{
+    list-style-type: none;
+    padding: 10px 10px;
+   
+}
+
+ li a
+{
+  
+    padding: 10px 10px;
+    background-color: #66bbc2;
+    float: center; 
+    border-radius: 090px;
+    
+}
+
+
+li a:hover
+{
+    background-color: #005e82;    
+}

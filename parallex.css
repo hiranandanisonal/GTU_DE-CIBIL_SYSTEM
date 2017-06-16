@@ -1,0 +1,23 @@
+div
+{
+    height: 700px;
+    text-align: center;
+    
+}
+
+.blue
+{
+    /*    background-color: cornflowerblue;*/
+}
+
+.grey
+{
+    background-color: darkseagreen;
+}
+
+h1
+
+{
+    margin: 0;
+    padding: 0;
+}
